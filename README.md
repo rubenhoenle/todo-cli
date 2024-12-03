@@ -53,7 +53,7 @@ In case you don't have the nix package manager installed, following commands sho
 
 ```bash
 # build the binary
-go build .
+go build -o todo .
 
 # run the tests
 go test ./...

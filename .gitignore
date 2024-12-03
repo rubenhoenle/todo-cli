@@ -1,5 +1,6 @@
 result
 todo-cli
+todo
 *.sqlite3
 
 coverage.html
