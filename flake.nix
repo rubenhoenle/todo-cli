@@ -28,7 +28,7 @@
         };
 
         #goModVendorHash = pkgs.lib.fakeHash;
-        goModVendorHash = "sha256-OOT7sgYRgkpXKYXpFe4anMj3G+PA4tiS0FaIoHDWPpQ=";
+        goModVendorHash = "sha256-eQWnZnNiUrKGlIRs826D3BZ9bs0xig4kBohoP/Xu0z4=";
 
         todo-cli = pkgs.buildGoModule {
           name = "todo-cli";
